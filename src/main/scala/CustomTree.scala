@@ -9,7 +9,7 @@ object CustomTree {
   def main(args: Array[String]): Unit = {
 
     if (args.length < 1) {
-      println(s"ERR => Use: runMain Main keyword...\n")
+      println(s"ERR => Use: runMain CustomTree keyword...\n")
     } else {
 
       val tree = new Tree(None)

@@ -10,7 +10,7 @@ object MutableTreeMap {
   def main(args: Array[String]): Unit = {
 
     if (args.length < 1) {
-      println(s"ERR => Use: runMain Main keyword...\n")
+      println(s"ERR => Use: runMain MutableTreeMap keyword...\n")
     } else {
 
       val term = args(0).toLowerCase
