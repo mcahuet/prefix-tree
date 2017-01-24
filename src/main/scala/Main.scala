@@ -4,7 +4,7 @@ import models.Tree
 /**
   * Object that uses a custom Tree
   */
-object CustomTree {
+object Main {
 
   def main(args: Array[String]): Unit = {
 
