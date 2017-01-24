@@ -1,4 +1,4 @@
-# Radix-tree
+# Prefix-tree
 
 An implementation of a radix-tree in Scala
 
