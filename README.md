@@ -10,3 +10,8 @@ An implementation of a radix-tree in Scala
 ```
 sbt "runMain Main keyword"
 ```
+
+## Launch test
+```
+sbt "test"
+```
