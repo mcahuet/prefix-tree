@@ -1,0 +1,10 @@
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+target
+target/*
+.idea
+.idea/*
+
+project/target
+project/target/*
